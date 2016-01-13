@@ -1,6 +1,7 @@
 # Whiteboard Slack Bot
 
 test
+test
 
 WhiteboardBot is a slack bot that allows users to easily create new entries into whiteboard directly from Slack!
 
